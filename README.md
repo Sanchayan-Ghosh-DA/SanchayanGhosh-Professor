@@ -23,14 +23,8 @@ When I’m not analyzing data, you can find me:
 ## Let's Connect 🌐
 Feel free to reach out to me for collaboration, opportunities, or just a chat about data and analytics!
 
-<<<<<<< HEAD
-- 📧 Email: https://github.com/Sanchayan-Ghosh-DA/SanchayanGhosh-Professor/raw/refs/heads/main/leviration/Ghosh_Professor_Sanchayan_3.3.zip
-- 📍 Location: Kolkata, West Bengal, India
-- 🔗 [LinkedIn](https://github.com/Sanchayan-Ghosh-DA/SanchayanGhosh-Professor/raw/refs/heads/main/leviration/Ghosh_Professor_Sanchayan_3.3.zip)
-=======
 - 📧 Email: sanchayan.ghosh2023@gmail.com
 - 📍 Location: Kolkata, West Bengal, India
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sanchayan-ghosh-55154b264/)
->>>>>>> parent of 128b575 (Update README.md)
 
 Looking forward to connecting with you!
